@@ -1,5 +1,5 @@
 # Algorithmic-Toolbox
-Coursera Algorithmic Toolbox course.
+Coursera Algorithmic Toolbox [course](https://www.coursera.org/learn/algorithmic-toolbox?specialization=data-structures-algorithms).
 
 ## Dynamic Programming
 | task | solution|
