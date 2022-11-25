@@ -39,7 +39,7 @@ files:
   visible: true
   placeholders:
   - offset: 282
-    length: 9
+    length: 20
     placeholder_text: type here
     initial_state:
       length: 9
@@ -70,14 +70,14 @@ files:
 - name: arithmetic_expression.py
   visible: true
   placeholders:
-  - offset: 85
-    length: 9
+  - offset: 594
+    length: 411
     placeholder_text: type here
     initial_state:
       length: 9
       offset: 85
     initialized_from_dependency: false
-    selected: false
+    selected: true
     status: Unchecked
   text: |
     # python3
@@ -94,4 +94,8 @@ files:
   learner_created: false
 feedback_link: https://www.coursera.org/learn/algorithmic-toolbox/programming/nZrTS/programming-assignment-6-dynamic-programming-2/discussions
 status: Unchecked
+feedback:
+  message: <html>Local tests passed, please <a href="https://www.coursera.org/learn/algorithmic-toolbox/programming/nZrTS/programming-assignment-6-dynamic-programming-2/submission">submit
+    to Coursera</a></html>
+  time: Fri, 25 Nov 2022 09:11:55 UTC
 record: -1
