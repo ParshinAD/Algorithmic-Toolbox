@@ -1,7 +1,40 @@
 # Algorithmic-Toolbox
 Coursera Algorithmic Toolbox course.
 
-# Algorithmic Warm Up
+## Dynamic Programming
+| task | solution|
+| ------------------- | ------------------- |
+| [Money Change Again](https://github.com/ParshinAD/Algorithmic-Toolbox/blob/4654c1ddb3d80bf3e4c457ec36bf3956eecaccd3/Dynamic%20Programming/Money%20Change%20Again/task.md) | [here](https://github.com/ParshinAD/Algorithmic-Toolbox/blob/4654c1ddb3d80bf3e4c457ec36bf3956eecaccd3/Dynamic%20Programming/Money%20Change%20Again/money_change_again.py) | 
+| [Primitive Calculator](https://github.com/ParshinAD/Algorithmic-Toolbox/blob/4654c1ddb3d80bf3e4c457ec36bf3956eecaccd3/Dynamic%20Programming/Primitive%20Calculator/task.md) | [here](https://github.com/ParshinAD/Algorithmic-Toolbox/blob/4654c1ddb3d80bf3e4c457ec36bf3956eecaccd3/Dynamic%20Programming/Primitive%20Calculator/primitive_calculator.py) | 
+| [Edit Distance](https://github.com/ParshinAD/Algorithmic-Toolbox/blob/4654c1ddb3d80bf3e4c457ec36bf3956eecaccd3/Dynamic%20Programming/Edit%20Distance/task.md) | [here](https://github.com/ParshinAD/Algorithmic-Toolbox/blob/4654c1ddb3d80bf3e4c457ec36bf3956eecaccd3/Dynamic%20Programming/Edit%20Distance/edit_distance.py) | 
+| [Longest Common Subsequence of Two Sequences](https://github.com/ParshinAD/Algorithmic-Toolbox/blob/4654c1ddb3d80bf3e4c457ec36bf3956eecaccd3/Dynamic%20Programming/Longest%20Common%20Subsequence%20of%20Two%20Sequences/task.md) | [here](https://github.com/ParshinAD/Algorithmic-Toolbox/blob/4654c1ddb3d80bf3e4c457ec36bf3956eecaccd3/Dynamic%20Programming/Longest%20Common%20Subsequence%20of%20Two%20Sequences/lcs2.py) |
+| [Longest Common Subsequence of Three Sequences](https://github.com/ParshinAD/Algorithmic-Toolbox/blob/4654c1ddb3d80bf3e4c457ec36bf3956eecaccd3/Dynamic%20Programming/Longest%20Common%20Subsequence%20of%20Three%20Sequences/task.md) | [here](https://github.com/ParshinAD/Algorithmic-Toolbox/blob/4654c1ddb3d80bf3e4c457ec36bf3956eecaccd3/Dynamic%20Programming/Longest%20Common%20Subsequence%20of%20Three%20Sequences/lcs3.py) | 
+| [Maximum Amount of Gold](https://github.com/ParshinAD/Algorithmic-Toolbox/blob/4654c1ddb3d80bf3e4c457ec36bf3956eecaccd3/Dynamic%20Programming/Maximum%20Amount%20of%20Gold/task.md) | [here](https://github.com/ParshinAD/Algorithmic-Toolbox/blob/4654c1ddb3d80bf3e4c457ec36bf3956eecaccd3/Dynamic%20Programming/Maximum%20Amount%20of%20Gold/maximum_gold.py) |
+| [Partitioning Souvenirs](https://github.com/ParshinAD/Algorithmic-Toolbox/blob/4654c1ddb3d80bf3e4c457ec36bf3956eecaccd3/Dynamic%20Programming/Partitioning%20Souvenirs/task.md) | [here](https://github.com/ParshinAD/Algorithmic-Toolbox/blob/4654c1ddb3d80bf3e4c457ec36bf3956eecaccd3/Dynamic%20Programming/Partitioning%20Souvenirs/partition_souvenirs.py) | 
+| [Maximum Value of an Arithmetic Expression](https://github.com/ParshinAD/Algorithmic-Toolbox/blob/4654c1ddb3d80bf3e4c457ec36bf3956eecaccd3/Dynamic%20Programming/Maximum%20Value%20of%20an%20Arithmetic%20Expression/task.md) | [here](https://github.com/ParshinAD/Algorithmic-Toolbox/blob/4654c1ddb3d80bf3e4c457ec36bf3956eecaccd3/Dynamic%20Programming/Maximum%20Value%20of%20an%20Arithmetic%20Expression/arithmetic_expression.py) |
+
+## Divide-and-Conquer (TODO)
+| task | solution|
+| ------------------- | ------------------- |
+| [Binary Search](https://github.com/ParshinAD/Algorithmic-Toolbox/blob/4654c1ddb3d80bf3e4c457ec36bf3956eecaccd3/Divide-and-Conquer/Binary%20Search/task.md) | [here](https://github.com/ParshinAD/Algorithmic-Toolbox/blob/4654c1ddb3d80bf3e4c457ec36bf3956eecaccd3/Divide-and-Conquer/Binary%20Search/binary_search.py) |
+| [Majority Element](https://github.com/ParshinAD/Algorithmic-Toolbox/blob/4654c1ddb3d80bf3e4c457ec36bf3956eecaccd3/Divide-and-Conquer/Majority%20Element/task.md)| [here](https://github.com/ParshinAD/Algorithmic-Toolbox/blob/4654c1ddb3d80bf3e4c457ec36bf3956eecaccd3/Divide-and-Conquer/Majority%20Element/majority_element.py) | 
+| [Improving QuickSort](https://github.com/ParshinAD/Algorithmic-Toolbox/blob/4654c1ddb3d80bf3e4c457ec36bf3956eecaccd3/Divide-and-Conquer/Improving%20QuickSort/task.md) | [here](https://github.com/ParshinAD/Algorithmic-Toolbox/blob/4654c1ddb3d80bf3e4c457ec36bf3956eecaccd3/Divide-and-Conquer/Improving%20QuickSort/quicksort.py)|
+| [Number of Inversions](https://github.com/ParshinAD/Algorithmic-Toolbox/blob/4654c1ddb3d80bf3e4c457ec36bf3956eecaccd3/Divide-and-Conquer/Number%20of%20Inversions/task.md) | [here](https://github.com/ParshinAD/Algorithmic-Toolbox/blob/4654c1ddb3d80bf3e4c457ec36bf3956eecaccd3/Divide-and-Conquer/Number%20of%20Inversions/number_of_inversions.py) | 
+| [Points and Segments](https://github.com/ParshinAD/Algorithmic-Toolbox/blob/4654c1ddb3d80bf3e4c457ec36bf3956eecaccd3/Divide-and-Conquer/Organizing%20a%20Lottery/task.md) | [here](https://github.com/ParshinAD/Algorithmic-Toolbox/blob/4654c1ddb3d80bf3e4c457ec36bf3956eecaccd3/Divide-and-Conquer/Organizing%20a%20Lottery/organizing_lottery.py) |
+| [Closest Points](https://github.com/ParshinAD/Algorithmic-Toolbox/blob/4654c1ddb3d80bf3e4c457ec36bf3956eecaccd3/Divide-and-Conquer/Closest%20Points/task.md) | [here](https://github.com/ParshinAD/Algorithmic-Toolbox/blob/4654c1ddb3d80bf3e4c457ec36bf3956eecaccd3/Divide-and-Conquer/Closest%20Points/closest_points.py) | 
+
+## Greedy Algorithms
+| task | solution|
+| ------------------- | ------------------- |
+| [Money Change](https://github.com/ParshinAD/Algorithmic-Toolbox/blob/4654c1ddb3d80bf3e4c457ec36bf3956eecaccd3/Greedy%20Algorithms/Money%20Change/task.md) | [here](https://github.com/ParshinAD/Algorithmic-Toolbox/blob/4654c1ddb3d80bf3e4c457ec36bf3956eecaccd3/Greedy%20Algorithms/Money%20Change/money_change.py) | 
+| [Car Fueling](https://github.com/ParshinAD/Algorithmic-Toolbox/blob/4654c1ddb3d80bf3e4c457ec36bf3956eecaccd3/Greedy%20Algorithms/Car%20Fueling/task.md) | [here](https://github.com/ParshinAD/Algorithmic-Toolbox/blob/4654c1ddb3d80bf3e4c457ec36bf3956eecaccd3/Greedy%20Algorithms/Car%20Fueling/car_fueling.py) | 
+| [Maximum Value of the Loot](https://github.com/ParshinAD/Algorithmic-Toolbox/blob/4654c1ddb3d80bf3e4c457ec36bf3956eecaccd3/Greedy%20Algorithms/Maximum%20Value%20of%20the%20Loot/task.md) | [here](https://github.com/ParshinAD/Algorithmic-Toolbox/blob/4654c1ddb3d80bf3e4c457ec36bf3956eecaccd3/Greedy%20Algorithms/Maximum%20Value%20of%20the%20Loot/maximum_loot.py) | 
+| [Maximum Advertisement Revenue](https://github.com/ParshinAD/Algorithmic-Toolbox/blob/4654c1ddb3d80bf3e4c457ec36bf3956eecaccd3/Greedy%20Algorithms/Maximum%20Advertisement%20Revenue/task.md) | [here](https://github.com/ParshinAD/Algorithmic-Toolbox/blob/4654c1ddb3d80bf3e4c457ec36bf3956eecaccd3/Greedy%20Algorithms/Maximum%20Advertisement%20Revenue/maximum_ad_revenue.py) | 
+| [Collecting Signatures](https://github.com/ParshinAD/Algorithmic-Toolbox/blob/4654c1ddb3d80bf3e4c457ec36bf3956eecaccd3/Greedy%20Algorithms/Collecting%20Signatures/task.md) | [here](https://github.com/ParshinAD/Algorithmic-Toolbox/blob/4654c1ddb3d80bf3e4c457ec36bf3956eecaccd3/Greedy%20Algorithms/Collecting%20Signatures/collecting_signatures.py) | 
+| [Maximum Number of Prizes](https://github.com/ParshinAD/Algorithmic-Toolbox/blob/4654c1ddb3d80bf3e4c457ec36bf3956eecaccd3/Greedy%20Algorithms/Maximum%20Number%20of%20Prizes/task.md) | [here](https://github.com/ParshinAD/Algorithmic-Toolbox/blob/4654c1ddb3d80bf3e4c457ec36bf3956eecaccd3/Greedy%20Algorithms/Maximum%20Number%20of%20Prizes/maximum_number_of_prizes.py) | 
+| [Maximum Salary](https://github.com/ParshinAD/Algorithmic-Toolbox/blob/4654c1ddb3d80bf3e4c457ec36bf3956eecaccd3/Greedy%20Algorithms/Maximum%20Salary/task.md) | [here](https://github.com/ParshinAD/Algorithmic-Toolbox/blob/4654c1ddb3d80bf3e4c457ec36bf3956eecaccd3/Greedy%20Algorithms/Maximum%20Salary/maximum_salary.py) |
+
+## Algorithmic Warm Up
 | task | solution|
 | ------------------- | ------------------- |
 | [Fibonacci Number](https://github.com/ParshinAD/Algorithmic-Toolbox/blob/a60b6d4602d14ca30c9c55dcea1e06cb50d85ba0/Algorithmic%20Warm%20Up/Fibonacci%20Number/task.md) | [here](https://github.com/ParshinAD/Algorithmic-Toolbox/blob/a60b6d4602d14ca30c9c55dcea1e06cb50d85ba0/Algorithmic%20Warm%20Up/Fibonacci%20Number/fibonacci_number.py) |
@@ -13,8 +46,8 @@ Coursera Algorithmic Toolbox course.
 | [Last Digit of the Sum of Fibonacci Numbers Again](https://github.com/ParshinAD/Algorithmic-Toolbox/blob/a60b6d4602d14ca30c9c55dcea1e06cb50d85ba0/Algorithmic%20Warm%20Up/Last%20Digit%20of%20the%20Sum%20of%20Fibonacci%20Numbers%20Again/task.md) | [here](https://github.com/ParshinAD/Algorithmic-Toolbox/blob/a60b6d4602d14ca30c9c55dcea1e06cb50d85ba0/Algorithmic%20Warm%20Up/Last%20Digit%20of%20the%20Sum%20of%20Fibonacci%20Numbers%20Again/last_digit_of_the_sum_of_fibonacci_numbers_again.py)
 | [Last Digit of the Sum of Squares of Fibonacci Numbers](https://github.com/ParshinAD/Algorithmic-Toolbox/blob/a60b6d4602d14ca30c9c55dcea1e06cb50d85ba0/Algorithmic%20Warm%20Up/Last%20Digit%20of%20the%20Sum%20of%20Squares%20of%20Fibonacci%20Numbers/task.md) | [here](https://github.com/ParshinAD/Algorithmic-Toolbox/blob/a60b6d4602d14ca30c9c55dcea1e06cb50d85ba0/Algorithmic%20Warm%20Up/Last%20Digit%20of%20the%20Sum%20of%20Squares%20of%20Fibonacci%20Numbers/last_digit_of_the_sum_of_squares_of_fibonacci_numbers.py) |
 
-# Programming Challenges
+## Programming Challenges
 | task | solution|
 | ------------------- | ------------------- |
 | [Maximum Pairwise Product](https://github.com/ParshinAD/Algorithmic-Toolbox/blob/a60b6d4602d14ca30c9c55dcea1e06cb50d85ba0/Programming%20Challenges/Maximum%20Pairwise%20Product/task.md) | [here](https://github.com/ParshinAD/Algorithmic-Toolbox/blob/a60b6d4602d14ca30c9c55dcea1e06cb50d85ba0/Programming%20Challenges/Maximum%20Pairwise%20Product/maximum_pairwise_product.py)|
-|
+
