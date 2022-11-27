@@ -16,12 +16,13 @@ Coursera [Algorithmic Toolbox](https://www.coursera.org/learn/algorithmic-toolbo
 ## Divide-and-Conquer (TODO)
 | task | solution|
 | ------------------- | ------------------- |
-| [Binary Search](https://github.com/ParshinAD/Algorithmic-Toolbox/blob/4654c1ddb3d80bf3e4c457ec36bf3956eecaccd3/Divide-and-Conquer/Binary%20Search/task.md) | [here](https://github.com/ParshinAD/Algorithmic-Toolbox/blob/4654c1ddb3d80bf3e4c457ec36bf3956eecaccd3/Divide-and-Conquer/Binary%20Search/binary_search.py) |
+| [Binary Search[add]](https://github.com/ParshinAD/Algorithmic-Toolbox/blob/4654c1ddb3d80bf3e4c457ec36bf3956eecaccd3/Divide-and-Conquer/Binary%20Search/task.md) | [here](https://github.com/ParshinAD/Algorithmic-Toolbox/blob/4654c1ddb3d80bf3e4c457ec36bf3956eecaccd3/Divide-and-Conquer/Binary%20Search/binary_search.py) |
+| Binary Search with Duplicates[add] | |
 | [Majority Element](https://github.com/ParshinAD/Algorithmic-Toolbox/blob/4654c1ddb3d80bf3e4c457ec36bf3956eecaccd3/Divide-and-Conquer/Majority%20Element/task.md)| [here](https://github.com/ParshinAD/Algorithmic-Toolbox/blob/4654c1ddb3d80bf3e4c457ec36bf3956eecaccd3/Divide-and-Conquer/Majority%20Element/majority_element.py) | 
 | [Improving QuickSort](https://github.com/ParshinAD/Algorithmic-Toolbox/blob/4654c1ddb3d80bf3e4c457ec36bf3956eecaccd3/Divide-and-Conquer/Improving%20QuickSort/task.md) | [here](https://github.com/ParshinAD/Algorithmic-Toolbox/blob/4654c1ddb3d80bf3e4c457ec36bf3956eecaccd3/Divide-and-Conquer/Improving%20QuickSort/quicksort.py)|
 | [Number of Inversions](https://github.com/ParshinAD/Algorithmic-Toolbox/blob/4654c1ddb3d80bf3e4c457ec36bf3956eecaccd3/Divide-and-Conquer/Number%20of%20Inversions/task.md) | [here](https://github.com/ParshinAD/Algorithmic-Toolbox/blob/4654c1ddb3d80bf3e4c457ec36bf3956eecaccd3/Divide-and-Conquer/Number%20of%20Inversions/number_of_inversions.py) | 
-| [Points and Segments](https://github.com/ParshinAD/Algorithmic-Toolbox/blob/4654c1ddb3d80bf3e4c457ec36bf3956eecaccd3/Divide-and-Conquer/Organizing%20a%20Lottery/task.md) | [here](https://github.com/ParshinAD/Algorithmic-Toolbox/blob/4654c1ddb3d80bf3e4c457ec36bf3956eecaccd3/Divide-and-Conquer/Organizing%20a%20Lottery/organizing_lottery.py) |
-| [Closest Points](https://github.com/ParshinAD/Algorithmic-Toolbox/blob/4654c1ddb3d80bf3e4c457ec36bf3956eecaccd3/Divide-and-Conquer/Closest%20Points/task.md) | [here](https://github.com/ParshinAD/Algorithmic-Toolbox/blob/4654c1ddb3d80bf3e4c457ec36bf3956eecaccd3/Divide-and-Conquer/Closest%20Points/closest_points.py) | 
+| [Organizing a Lottery[add]](https://github.com/ParshinAD/Algorithmic-Toolbox/blob/4654c1ddb3d80bf3e4c457ec36bf3956eecaccd3/Divide-and-Conquer/Organizing%20a%20Lottery/task.md) | [here](https://github.com/ParshinAD/Algorithmic-Toolbox/blob/4654c1ddb3d80bf3e4c457ec36bf3956eecaccd3/Divide-and-Conquer/Organizing%20a%20Lottery/organizing_lottery.py) |
+| [Closest Points[add]](https://github.com/ParshinAD/Algorithmic-Toolbox/blob/4654c1ddb3d80bf3e4c457ec36bf3956eecaccd3/Divide-and-Conquer/Closest%20Points/task.md) | [here](https://github.com/ParshinAD/Algorithmic-Toolbox/blob/4654c1ddb3d80bf3e4c457ec36bf3956eecaccd3/Divide-and-Conquer/Closest%20Points/closest_points.py) | 
 
 ## Greedy Algorithms
 | task | solution|
